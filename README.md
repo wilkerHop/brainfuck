@@ -4,11 +4,17 @@ Esta é uma coleção de algoritmos em brainfuck.
 Brainfuck é uma linguagem esotérica que utiliza o paradigma binário de programação.
 ## Links
 Esses são alguns links legais que achei sobre a linguagem.
-##### BRAINFUCK DEVELOPER 1.4.7 (c) 2004-2008 Tim Rohlfs
+##### BRAINFUCK DEVELOPER 1.4.7 (c) 2004-2008 Tim Rohlfs:
 http://4mhz.de/bfdev.html
-##### Linus Akesson's BrainFuck page. This page includes famous Game of Life implemented in BF
+##### Brief explanation about brainfuck:
+http://www.muppetlabs.com/~breadbox/bf/
+##### Another brief tuto:
+http://www.iwriteiam.nl/Ha_BF.html
+##### Linus Akesson's BrainFuck page. This page includes famous Game of Life implemented in BF:
 http://www.df.lth.se/~lft/brainfuck/
 ##### Interesting sources by Daniel Cristofani:
 http://www.hevanet.com/cristofd/brainfuck/
 ##### Wiki at Cat's eye:
 http://catseye.tc/node/brainfuck
+##### The Brainfuck Archive:
+http://esoteric.sange.fi/brainfuck/
