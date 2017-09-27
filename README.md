@@ -1,5 +1,5 @@
 # Mas o que é isso ??
-Esta é uma biblioteca de algoritmos em brainfuck.
+Esta é uma coleção de algoritmos em brainfuck.
 # Mas o que é brainfuck ??
 Brainfuck é uma linguagem esotérica que utiliza o paradigma binário de programação.
 ## Links
