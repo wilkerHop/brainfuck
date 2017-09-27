@@ -1,4 +1,4 @@
 bfdev.ini
 *.exe
 readme.txt
-/outputs/fib.txt
+outputs/fib.txt
