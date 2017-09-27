@@ -5,7 +5,7 @@ Brainfuck é uma linguagem esotérica que utiliza o paradigma binário de progra
 ## Links
 Esses são alguns links legais que achei sobre a linguagem.
 ##### BRAINFUCK DEVELOPER 1.4.7 (c) 2004-2008 Tim Rohlfs
-http://4mhz.de/
+http://4mhz.de/bfdev.html
 ##### Linus Akesson's BrainFuck page. This page includes famous Game of Life implemented in BF
 http://www.df.lth.se/~lft/brainfuck/
 ##### Interesting sources by Daniel Cristofani:
